@@ -59,68 +59,6 @@ module.exports = function toReadable (number) {
         return 'twenty eight'
     }else if(number === 29){
         return 'twenty nine'
-    }else if(number === 30){
-        return 'Two'
-    }else if(number === 31){
-        return 'Two'
-    }else if(number === 32){
-        return 'Two'
-    }else if(num === 33){
-        return 'Two'
-    }else if(num === 34){
-        return 'Two'
-    }else if(num === 35){
-        return 'Two'
-    }else if(num === 36){
-        return 'Two'
-    }else if(num === 37){
-        return 'Two'
-    }else if(num === 38){
-        return 'Two'
-    }else if(num === 39){
-        return 'Two'
-    }else if(num === 40){
-        return 'Two'
-    }else if(num === 41){
-        return 'Two'
-    }else if(num === 42){
-        return 'Two'
-    }else if(num === 43){
-        return 'Two'
-    }else if(num === 44){
-        return 'Two'
-    }else if(num === 45){
-        return 'Two'
-    }else if(num === 46){
-        return 'Two'
-    }else if(num === 47){
-        return 'Two'
-    }else if(num === 48){
-        return 'Two'
-    }else if(num === 49){
-        return 'Two'
-    }else if(num === 50){
-        return 'Two'
-    }else if(num === 51){
-        return 'Two'
-    }else if(num === 52){
-        return 'Two'
-    }else if(num === 53){
-        return 'Two'
-    }else if(num === 54){
-        return 'Two'
-    }else if(num === 55){
-        return 'Two'
-    }else if(num === 56){
-        return 'Two'
-    }else if(num === 57){
-        return 'Two'
-    }else if(num === 58){
-        return 'Two'
-    }else if(num === 59){
-        return 'Two'
-    }else if(num === 60){
-        return 'Two'
     }
 
-}
+};
