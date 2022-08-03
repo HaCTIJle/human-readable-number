@@ -1,5 +1,4 @@
 module.exports = function toReadable (num) {
-  const toReadable = (num) =>{
     if(num == 0){
         return 'zero'
     }else if(num == 1){
@@ -123,7 +122,5 @@ module.exports = function toReadable (num) {
     }else if(num === 60){
         return 'Two'
     }
-};
-
 
 }
