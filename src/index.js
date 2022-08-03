@@ -1,69 +1,69 @@
-module.exports = function toReadable (num) {
-    if(num == 0){
+module.exports = function toReadable (number) {
+    if(number == 0){
         return 'zero'
-    }else if(num == 1){
+    }else if(number == 1){
         return 'one'
-    }else if(num == 2){
+    }else if(number == 2){
         return 'two'
-    }else if(num == 3){
+    }else if(number == 3){
         return 'three'
-    }else if(num == 4){
+    }else if(number == 4){
         return 'four'
-    }else if(num == 5){
+    }else if(number == 5){
         return 'five'
-    }else if(num == 6){
+    }else if(number == 6){
         return 'six'
-    }else if(num == 7){
+    }else if(number == 7){
         return 'seven'
-    }else if(num == 8){
+    }else if(number == 8){
         return 'eight'
-    }else if(num == 9){
+    }else if(number == 9){
         return 'nine'
-    }else if(num == 10){
+    }else if(number == 10){
         return 'ten'
-    }else if(num == 11){
+    }else if(number == 11){
         return 'eleven'
-    }else if(num == 12){
+    }else if(number == 12){
         return 'twelve'
-    }else if(num == 13){
+    }else if(number == 13){
         return 'thirteen'
-    }else if(num == 14){
+    }else if(number == 14){
         return 'fourteen'
-    }else if(num == 15){
+    }else if(number == 15){
         return 'fifteen'
-    }else if(num === 16){
+    }else if(number === 16){
         return 'sixteen'
-    }else if(num === 17){
+    }else if(number === 17){
         return 'seventeen'
-    }else if(num === 18){
+    }else if(number === 18){
         return 'eighteen'
-    }else if(num === 19){
+    }else if(number === 19){
         return 'nineteen'
-    }else if(num === 20){
+    }else if(number === 20){
         return 'twenty'
-    }else if(num === 21){
+    }else if(number === 21){
         return 'twenty one'
-    }else if(num === 22){
+    }else if(number === 22){
         return 'twenty two'
-    }else if(num === 23){
+    }else if(number === 23){
         return 'twenty three'
-    }else if(num === 24){
+    }else if(number === 24){
         return 'twenty four'
-    }else if(num === 25){
+    }else if(number === 25){
         return 'twenty five'
-    }else if(num === 26){
+    }else if(number === 26){
         return 'twenty six'
-    }else if(num === 27){
+    }else if(number === 27){
         return 'twenty seven'
-    }else if(num === 28){
+    }else if(number === 28){
         return 'twenty eight'
-    }else if(num === 29){
+    }else if(number === 29){
         return 'twenty nine'
-    }else if(num === 30){
+    }else if(number === 30){
         return 'Two'
-    }else if(num === 31){
+    }else if(number === 31){
         return 'Two'
-    }else if(num === 32){
+    }else if(number === 32){
         return 'Two'
     }else if(num === 33){
         return 'Two'
